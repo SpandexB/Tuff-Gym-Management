@@ -18,15 +18,14 @@ This project is a Gym Management System developed in Java Swing and AWT. It prov
 - **MySQL**: Database management system for storing gym data.
 - **JDBC**: Java Database Connectivity for interacting with the MySQL database.
 
-## Getting Started
 
-### Prerequisites
+## Prerequisites
 
-- JDK (Java Development Kit)
+- JDK 11
 - MySQL Database
-- IDE (Integrated Development Environment) like IntelliJ IDEA or Eclipse
+- NetBeans
 
-###Usage
+## Usage
 
 Launch the application.
 Login using your admin credentials.
@@ -35,7 +34,7 @@ Perform actions such as adding members, scheduling workouts, managing trainers, 
 Log out to exit the application.
 Contributing
 
-##We welcome contributions to improve the Gym Management System! To contribute to this project, please follow these steps:
+## We welcome contributions to improve the Gym Management System! To contribute to this project, please follow these steps:
 
 Fork the repository.
 Create your feature branch: git checkout -b feature/YourFeatureName.
@@ -43,7 +42,7 @@ Commit your changes: git commit -am 'Add some feature'.
 Push to the branch: git push origin feature/YourFeatureName.
 Submit a pull request.
 
-###Acknowledgements
+## Acknowledgements
 
 This project was inspired by the need for an efficient gym management solution.
 Special thanks to the developers of Java Swing and AWT for providing the tools to create graphical user interfaces in Java.
